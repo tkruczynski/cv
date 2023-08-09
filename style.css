@@ -147,6 +147,13 @@ h1 {
   color: #a8a8a8;
 }
 
+.extra {
+  font-weight: 600;
+  color: red;
+}
+.extra-link {
+  text-decoration: none;
+}
 .job-list {
   font-weight: 400;
   font-size: 14px;
