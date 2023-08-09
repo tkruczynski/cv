@@ -74,7 +74,7 @@ aside {
 }
 
 main {
-  padding: 102px 88px 102px 88px;
+  padding: 102px 150px 102px 90px;
   width: 100%;
 }
 .main-description {
@@ -153,6 +153,7 @@ h1 {
 }
 .extra-link {
   text-decoration: none;
+  font-size: medium;
 }
 .job-list {
   font-weight: 400;
